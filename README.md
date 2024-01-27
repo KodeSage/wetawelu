@@ -10,3 +10,9 @@ Wetawelu: The Decentralized Crowdfunding Application for EncodeClub Developers o
 - 2. **Solana Blockchain Integration:** Leveraging the Solana blockchain's high throughput and low transaction costs, the application ensures rapid and cost-effective fundraising. Solana's scalability is crucial for handling a large number of transactions, making it an ideal choice for crowdfunding campaigns.
 - 3. **EncodeClub Integration:** The platform is specifically tailored for developers associated with EncodeClub, a community-driven platform for developers and blockchain enthusiasts. EncodeClub developers can seamlessly initiate, manage, and fund their projects within the application, fostering collaboration and innovation.
 - 4. **Community Engagement:** The platform encourages active participation from the community, allowing backers and developers to engage and contribute to the success of projects. This fosters a sense of community and ensures ongoing support for the projects funded through the platform.
+
+
+### TOOLS & FRAMEWORK
+ - Frontend: React, Javascript, Typescript, IronForge
+ - SmartContract: - Rust, Solana ,Anchor, 
+   
