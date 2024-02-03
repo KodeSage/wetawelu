@@ -5,7 +5,7 @@ seeds = false
 skip-lint = false
 
 [programs.localnet]
-wetawelu_solanacontract = "Dtg6jj2BmZTaUY3JSDDZe91Vx7X6EKNCJx8b4ZH8gUdP"
+wetawelu_contract = "GkgdVw7gRnR28Q979EQPiriovTrXBmpJSZLRWXQuG2EM"
 
 [registry]
 url = "https://api.apr.dev"

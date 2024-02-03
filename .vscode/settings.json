@@ -1,0 +1,6 @@
+{
+  "rust-analyzer.linkedProjects": [
+    ".\\wetawelu_solanacontract\\programs\\wetawelu_solanacontract\\Cargo.toml",
+    ".\\wetawelu_solanacontract\\programs\\wetawelu_solanacontract\\Cargo.toml"
+  ]
+}
