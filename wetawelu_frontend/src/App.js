@@ -1,10 +1,12 @@
-
+import Navbar from "./components/Navbar";
+import ParticlesBackground from "./config/ParticlesBackground";
 
 function App() {
   return (
-    <div>
-      
-    </div>
+    <>
+    <ParticlesBackground />
+      <Navbar />
+    </>
   );
 }
 
